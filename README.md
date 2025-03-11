@@ -1,6 +1,6 @@
 # Prompt Engineered
 
-Random assortment of prompts and tools used in Custom GPTs and AI API applications.
+Random assortment of prompts and tools used in Custom GPTs and AI applications.
 
 ### Custom GPTs
 
@@ -12,8 +12,12 @@ Random assortment of prompts and tools used in Custom GPTs and AI API applicatio
 
 [Mini Bio Generator](./mini_bio_generator) - Scrape the web and provide structured JSON data related to a specific public personality.
 
-### AI API Tools
+### API Tools
 
 [Entity Factoid Generator](./entity_factoid_generator/) - Chat tool that generates a JSON response of "factoids" about a list of distinct entities.
 
-[Group Chat AI Assistant](./groupchat_ai_assistant) - Chat tool that provides AI interaction in a simple group chat tool.
+[Group Chat AI Assistant](./groupchat_ai_assistant) - Chat tool that provides AI interaction in a simple group chat.
+
+### Chrome Extensions
+
+[GPT Extended](https://gptextended.codethings.net/) - ChatGPT chrome extension for storing repeatedly used info across chats. Used for a glorious 4 months before the release of Custom GPTs made it unnecessary.
