@@ -1,12 +1,12 @@
-# Entity Factoid Generator
+# Group Chat AI Assistant
 
 AI API prompt that generates a JSON response of "factoids" about a list of distinct entities.
 
 [Link to Application](https://portfolio.codethings.net/proxy_loader?link=https://chat.codethings.net)
 
-[System Prompt](https://github.com/kirinmurphy/node-sandbox/blob/5e862726cf10e9bf5245a44d23affd89e1578c70/app/chatbot/cincoBot/getCincoBotChatResponse.js)
+[Prompt Logic](https://github.com/kirinmurphy/node-sandbox/blob/master/app/chatbot/cincoBot/getMentionedEntityPrePrompt.js)
 
-![Entity Factoid Generator Example](./screenshots/example_1.png)
+![Group Chat AI Assistant Example](./screenshots/example_1.png)
 
 ## Test Scenarios
 
@@ -14,8 +14,11 @@ For each version update, verify prompt by conducting organic conversation and en
 
 ## Current Challenges
 
-- Shifting context over a conversation can cause the BOT to lose it's frame of reference.
+- We are deduping within a message but need to de-dupe against existing factoid.
+- Sometimes factoids are not particulary interesting
+- Reference links not ALWAYS provided.
+- Reponses have a high rate of returning formatted as expected, but there are some failures.
 
 ## Next Steps
 
-- Test chat against more models :/)
+- Find ways to generate more compelling factoids. Some are interesting, but some are super trivial, obvious and not useful.

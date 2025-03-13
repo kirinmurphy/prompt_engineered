@@ -28,7 +28,7 @@ For each version update, verify prompt with the follwing test scenarios:
 
 ## Next Steps
 
-- Add direct attributions/quotes to back supporting/contracdicting evidence.
+- Add direct attributions/quotes to back supporting/contradicting evidence.
 - Improve consistency of citations for content used in assessment
 - Explain to user why the claim assessment has a high/medium/low confiedence of response
 - Provide follow up prompts after response:
