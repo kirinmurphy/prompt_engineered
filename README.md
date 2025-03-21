@@ -2,7 +2,13 @@
 
 Random assortment of prompts and tools used in Custom GPTs and AI applications.
 
+### Meta-Prompting Assistant
+
+[Custom meta-prompt instructions](./custom_gpts/meta_prompting_assistant.md) for developing consistent, structured formatting of unique system prompts.
+
 ### Custom GPTs
+
+[When In Roma](./custom_gpts/when_in_roma) - Conversational mexican spanish translations with additional context and grammar notes.
 
 [Meal Trackerer](./custom_gpts/meal_trackerer) - Track your nutrition information across different meals.
 
