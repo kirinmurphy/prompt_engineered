@@ -1,6 +1,6 @@
 # Prompt Engineered
 
-Random assortment of system prompts and tools for producing effective Custom GPTs and AI applications.
+Random assortment of system prompts and tools for producing Custom GPTs and API based tools.
 
 ## Meta-Prompting Assistant
 
@@ -26,4 +26,4 @@ Random assortment of system prompts and tools for producing effective Custom GPT
 
 ## Chrome Extensions
 
-[GPT Extended](https://gptextended.codethings.net/) - Early ChatGPT chrome extension that hacked the custom instructions feature to store and apply repeatedly used info across chats. Used for a glorious 4 months before the release of Custom GPTs made it unnecessary.
+[GPT Extended](https://gptextended.codethings.net/) - Early ChatGPT chrome extension that hacked the custom instructions feature to store and apply repeatedly used system prompts and generated chat content across chats. Used for a glorious 4 months before the release of Custom GPTs made it unnecessary.
