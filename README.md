@@ -16,7 +16,7 @@ Random assortment of system prompts and tools for producing effective Custom GPT
 
 [Location Grabber](./custom_gpts/location_grabber) - Scrape location data for a list of any places and provide a snippet to paste into a spreadsheet.
 
-[Mini Bio Generator](./custom_gpts/mini_bio_generator) - Scrape the web and provide structured JSON data related to a specific public personality.
+[Mini Music Bio Generator](./custom_gpts/mini_music_bio_generator) - Scrape data about a musician from the web and return as structured JSON.
 
 ## API Tools
 
