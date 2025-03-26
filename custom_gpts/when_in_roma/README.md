@@ -8,9 +8,9 @@ Conversational mexican spanish translations with additional context and grammar 
 
 [Meta-Prompting chat in claude project](https://claude.ai/share/df913148-3f23-4fc6-ba97-50f6c533c845)
 
-<!-- ![When In Roma Landing_Page](./screenshots/landing_page.png)
+![When In Roma Landing_Page](./screenshots/landing_page.png)
 
-![When In Roma Example 1](./screenshots/example_1.png) -->
+![When In Roma Example 1](./screenshots/example_1.png)
 
 ## Test Scenarios
 
@@ -22,4 +22,5 @@ For each version update, verify prompt with the follwing test scenarios:
 
 ## Current Challenges and Next Steps
 
+- Organization of elements still a little muddy, ensure direct translations show up before the language notes, and additional variations have their corresponding translation also included directly afterwards.
 - Prompt is WAY TOO BIG. Exploring implementation of vector database embeddings and offloading of elements of the query away from the system prompt.
