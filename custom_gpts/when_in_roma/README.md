@@ -16,11 +16,11 @@ Conversational mexican spanish translations with additional context and grammar 
 
 For each version update, verify prompt with the follwing test scenarios:
 
-- Provide several complex, conversational spanish phrases
+- Provide several complex spanish phrases that require corrections/updates
+- Provide several complex spanish phrases that need no corrections
 - Provide several complex english phrases
 - Create versions that can be reused for each prompt for consistency)
 
 ## Current Challenges and Next Steps
 
-- Organization of elements still a little muddy, ensure direct translations show up before the language notes, and additional variations have their corresponding translation also included directly afterwards.
 - Prompt is WAY TOO BIG. Exploring implementation of vector database embeddings and offloading of elements of the query away from the system prompt.
