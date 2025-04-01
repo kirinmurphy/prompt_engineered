@@ -10,9 +10,15 @@ Conversational mexican spanish translations with additional context and grammar 
 
 ![When In Roma Landing_Page](./screenshots/landing_page.png)
 
+#### Spanish > English translation with no corrections
+
 ![When In Roma Correct Spanish Example](./screenshots/example_1.png)
 
+#### Spanish > English translation with corrections
+
 ![When In Roma Incorrect Spanish Example](./screenshots/example_2.png)
+
+#### English > Spanish translation
 
 ![When In Roma English Example](./screenshots/example_3.png)
 
@@ -32,3 +38,5 @@ For each version update, verify prompt with the follwing test scenarios:
 - Numerous references to preserving slang, which are sometimes still ignored in the first custom prompt. Need to refine the redundant instructions down to a limited set that can enforce the rules effectively.
 
 - Corrections should include the specific english translation for the text segment.
+
+- Corrections: if none, force an explicit "None"
