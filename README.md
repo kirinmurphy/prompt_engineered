@@ -2,13 +2,11 @@
 
 Random assortment of system prompts and tools for producing Custom GPTs and API based tools.
 
-## Meta-Prompting Assistant
-
-[Custom meta-prompt instructions](./custom_gpts/meta_prompting_assistant.md) for developing consistent, structured formatting of unique system prompts.
-
 ## Custom GPTs
 
-[When In Roma](./custom_gpts/when_in_roma) - Conversational mexican spanish translations with additional context and grammar notes.
+[Spanish Verb Conjugation Quiz](./custom_gpts/spanish_verb_conjugation_quiz) - Practice translating spanish verb conjugations.
+
+[Mi Amigo Mexicano](./custom_gpts/mi_amigo_mexicano) - Conversational mexican spanish translations with additional context and grammar notes.
 
 [Meal Trackerer](./custom_gpts/meal_trackerer) - Track your nutrition information across different meals.
 

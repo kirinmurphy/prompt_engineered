@@ -1,26 +1,26 @@
-# When In Roma
+# Mi Amigo Mexicano (Spanish Translator)
 
 Conversational mexican spanish translations with additional context and grammar notes.
 
-[Link to GPT](https://chatgpt.com/g/g-67dd8d76728c81919f23713d68436e30-when-in-roma-mexican-spanish-translator)
+[Link to GPT](https://chatgpt.com/g/g-67dd8d76728c81919f23713d68436e30-mi-amigo-mexicano-spanish-translator)
 
 [System Prompt](./system_prompt.xml)
 
 [Meta-Prompting chat in claude project](https://claude.ai/share/df913148-3f23-4fc6-ba97-50f6c533c845)
 
-![When In Roma Landing_Page](./screenshots/landing_page.png)
+![Mi Amigo Mexicano Landing_Page](./screenshots/landing_page.png)
 
 #### Spanish > English translation with no corrections
 
-![When In Roma Correct Spanish Example](./screenshots/example_1.png)
+![Mi Amigo Mexicano Correct Spanish Example](./screenshots/example_1.png)
 
 #### Spanish > English translation with corrections
 
-![When In Roma Incorrect Spanish Example](./screenshots/example_2.png)
+![Mi Amigo Mexicano Incorrect Spanish Example](./screenshots/example_2.png)
 
 #### English > Spanish translation
 
-![When In Roma English Example](./screenshots/example_3.png)
+![Mi Amigo Mexicano English Example](./screenshots/example_3.png)
 
 ## Test Scenarios
 
